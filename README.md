@@ -36,7 +36,7 @@ This is a user-friendly news research tool designed for effortless information r
 ```
 ## Usage/Examples
 
-1. Run the Streamlit app by executing:
+1.Run the Streamlit app by executing:
 ```bash
 streamlit run app.py
 
